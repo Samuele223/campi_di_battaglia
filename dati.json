@@ -1,9 +1,9 @@
 [
 {
-"Comune":"ALTRO",
-"Provincia":"ALTRO",
-"Regione":"ALTRO",
-"Nome":"Italian 3rd defense line trenches",
+"Comune":"DRENCHIA",
+"Provincia":"ENTE DI DECENTRAMENTO REGIONALE DI UDINE",
+"Regione":"Friuli-Venezia Giulia",
+"Nome":"Terza linea di difesa italiana della Grande Guerra",
 "Anno inserimento":"2013",
 "Data e ora inserimento":"2013-10-27T08:09:34Z",
 "Identificatore in OpenStreetMap":"2510073599",
@@ -12,51 +12,15 @@
 }
 ,
 {
-"Comune":"ALTRO",
-"Provincia":"ALTRO",
-"Regione":"ALTRO",
-"Nome":"Kleiner Pal Rechter Fl�gel",
+"Comune":"PALUZZA",
+"Provincia":"ENTE DI DECENTRAMENTO REGIONALE DI UDINE",
+"Regione":"Friuli-Venezia Giulia",
+"Nome":"Kleiner Pal Rechter Flugel",
 "Anno inserimento":"2011",
 "Data e ora inserimento":"2011-10-22T20:17:16Z",
 "Identificatore in OpenStreetMap":"1476948002",
 "Longitudine":"12.9521608",
 "Latitudine":"46.6040806999999"
-}
-,
-{
-"Comune":"ALTRO",
-"Provincia":"ALTRO",
-"Regione":"ALTRO",
-"Nome":"Maschinengewehrnase",
-"Anno inserimento":"2011",
-"Data e ora inserimento":"2011-11-01T14:29:37Z",
-"Identificatore in OpenStreetMap":"1488558652",
-"Longitudine":"12.9483986",
-"Latitudine":"46.6078177999999"
-}
-,
-{
-"Comune":"ALTRO",
-"Provincia":"ALTRO",
-"Regione":"ALTRO",
-"Nome":"Sabotin - so?ka fronta",
-"Anno inserimento":"2015",
-"Data e ora inserimento":"2015-08-02T11:18:35Z",
-"Identificatore in OpenStreetMap":"3069882115",
-"Longitudine":"13.6314665",
-"Latitudine":"45.990777"
-}
-,
-{
-"Comune":"ALTRO",
-"Provincia":"ALTRO",
-"Regione":"ALTRO",
-"Nome":"Sch�tzengr�ben K�derk�pfe",
-"Anno inserimento":"2013",
-"Data e ora inserimento":"2013-04-29T15:19:29Z",
-"Identificatore in OpenStreetMap":"2281243415",
-"Longitudine":"13.0200394",
-"Latitudine":"46.6104863999999"
 }
 ,
 {
